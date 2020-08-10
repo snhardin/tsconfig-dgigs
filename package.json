@@ -1,0 +1,15 @@
+{
+  "name": "tsconfig-dgigs",
+  "version": "0.0.1",
+  "description": "Scott's common tsconfig files.",
+  "author": "Scott Hardin",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snhardin/tsconfig-dgigs"
+  },
+  "peerDependencies": {
+    "ts-transform-log-helper": "^0.0.1",
+    "tslib": "^2.0.1"
+  }
+}
