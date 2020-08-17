@@ -7,9 +7,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/snhardin/tsconfig-dgigs"
-  },
-  "peerDependencies": {
-    "ts-transform-log-helper": "^0.0.1",
-    "tslib": "^2.0.1"
   }
 }
